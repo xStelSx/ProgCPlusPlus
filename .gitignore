@@ -1,0 +1,10 @@
+.vscode
+build/
+venv/
+flamegraph/
+*.png
+*.json
+*.csv
+*.data
+*data.old
+*folded
